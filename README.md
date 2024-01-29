@@ -25,7 +25,7 @@ I enjoy working with a variety of tools and technologies:
 Feel free to reach out to me for collaborations, discussions, or just to say hi!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajit%20Raj%20Adhikari-blue)](https://www.linkedin.com/in/prajit-adhikari/)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-@PrajitAdhikari-blue)](https://twitter.com/PrajitAdhikari)
 
 <!---
 adhikariprajitraj/adhikariprajitraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

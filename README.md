@@ -10,9 +10,10 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 
 I enjoy working with a variety of tools and technologies:
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python, R, C, Julia
 - **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Web Dev:** Flask, HTML+CSS, React, Nodejs
 - **Version Control:** Git, GitHub
 
 ### 📊 GitHub Stats

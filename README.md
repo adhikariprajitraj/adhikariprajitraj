@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Prajit Raj Adhikari
+# 👋 Hello, I'm Prajit Adhikari
 
 <div align="center">
   
